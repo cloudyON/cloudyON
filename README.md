@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: l'm not a cloud..? hahaha..
 
 
-![cloudy's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![cloudy's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudyON&show_icons=true&theme=radical)
