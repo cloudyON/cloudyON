@@ -1,12 +1,17 @@
 ### Hi there 👋
+------------------------------------------
+
+l'm learned..
+
+<img src="https://github.com/cloudyON/cloudyON/blob/main/c.svg" width="40" height="40"><img src="https://github.com/cloudyON/cloudyON/blob/main/python.svg" width="40" height="40"><img src="https://github.com/cloudyON/cloudyON/blob/main/mysql.svg" width="40" height="40">
 
 
+------------------------------------------
 
-Here are some ideas to get you started:
+l'm learning..
 
--  🔭 I’m currently working on python, c
--  🌱 I’m currently learning django
--  💬 Ask me about ...
+<img src="https://github.com/cloudyON/cloudyON/blob/main/django.svg" width="40" height="40">
+
 
 ------------------------------------------
 
