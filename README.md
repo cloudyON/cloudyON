@@ -1,12 +1,18 @@
 ### Hi there 👋
 ------------------------------------------
 hi! l'm middle school student in korea!
+
+
+
 ♥   l like coding! & learning programming language!   ♥
 
 
 l'm learned.. ✨
 
 <img src="https://github.com/cloudyON/cloudyON/blob/main/c (1).png" width="40" height="40"><img src="https://github.com/cloudyON/cloudyON/blob/main/python (1).png" width="40" height="40"><img src="https://github.com/cloudyON/cloudyON/blob/main/mysql (1).png" width="40" height="40">
+
+
+
 
 
 
