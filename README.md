@@ -1,10 +1,16 @@
 ### Hi there 👋
 ------------------------------------------
-hi! l'm middle school student in korea!
+
 
 
 
 ♥   l like coding! & learning programming language!   ♥
+
+
+
+hi! l'm middle school student in korea!
+
+
 
 ```
    print("hello world!")
