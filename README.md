@@ -6,6 +6,11 @@ hi! l'm middle school student in korea!
 
 ♥   l like coding! & learning programming language!   ♥
 
+```
+   print("hello world!")
+   printf("hello world!\n");
+```
+
 
 l'm learned.. ✨
 
