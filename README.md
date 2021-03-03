@@ -1,14 +1,16 @@
 ### Hi there 👋
 ------------------------------------------
+hi! l'm middle school student in korea!
 
-l'm learned..
 
-<img src="https://github.com/cloudyON/cloudyON/blob/main/c.svg" width="40" height="40"><img src="https://github.com/cloudyON/cloudyON/blob/main/python.svg" width="40" height="40"><img src="https://github.com/cloudyON/cloudyON/blob/main/mysql.svg" width="40" height="40">
+l'm learned.. ✨
+
+<img src="https://github.com/cloudyON/cloudyON/blob/main/c.png" width="40" height="40"><img src="https://github.com/cloudyON/cloudyON/blob/main/python.png" width="40" height="40"><img src="https://github.com/cloudyON/cloudyON/blob/main/mysql.png" width="40" height="40">
 
 
 ------------------------------------------
 
-l'm learning..
+l'm learning.. 🔥
 
 <img src="https://github.com/cloudyON/cloudyON/blob/main/django.svg" width="40" height="40">
 
