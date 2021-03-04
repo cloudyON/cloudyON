@@ -39,7 +39,7 @@
 
 ------------------------------------------
 
-![cloudy's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudyON&show_icons=true&theme=tokyonight)
+![cloudy's GitHub stats](https://github-readme-stats.vercel.app/api?username=cloudyON&show_icons=true)
 
 and this is my most used languages
 
