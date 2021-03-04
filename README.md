@@ -18,10 +18,10 @@
 
 ## l learned.. ✨
 
-<img src="https://github.com/cloudyON/cloudyON/blob/main/c (1).png" width="40" height="40"><img src="https://github.com/cloudyON/cloudyON/blob/main/python (1).png" width="40" height="40"><img src="https://github.com/cloudyON/cloudyON/blob/main/mysql (1).png" width="40" height="40">
+ <img src="https://github.com/cloudyON/cloudyON/blob/main/c (1).png" width="40" height="40"><img src="https://github.com/cloudyON/cloudyON/blob/main/python (1).png" width="40" height="40"><img src="https://github.com/cloudyON/cloudyON/blob/main/mysql (1).png" width="40" height="40">
 
 
-#### c, python, mysql
+ #### c, python, mysql
 
 
 
@@ -31,10 +31,10 @@
 
 ## l'm learning.. 🔥
 
-<img src="https://github.com/cloudyON/cloudyON/blob/main/django.svg" width="40" height="40">
+ <img src="https://github.com/cloudyON/cloudyON/blob/main/django.svg" width="40" height="40">
 
 
-#### django
+ #### django
 
 
 ------------------------------------------
